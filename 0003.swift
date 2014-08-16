@@ -7,6 +7,8 @@ var options = [
     "edit": "Edit Text"
 ]
 
+// Swift style for-loop
+
 for tag in tags {
 	println(tag)
 }
@@ -18,5 +20,3 @@ for (key, value) in options {
 for i in 0...100 {
 	println(i)
 }
-
-println(i)
